@@ -2,6 +2,24 @@
 
 All notable changes to `laravel-responsecache` will be documented in this file.
 
+## 7.1.0 - 2021-04-27
+
+- add `CacheItemSelector`
+
+## 7.0.1 - 2021-04-13
+
+- add `url` option to `ClearCommand` (#348)
+
+## 7.0.0 - 2021-04-02
+
+- require PHP 8+
+- drop support for PHP 7.x
+- use PHP 8 syntax where possible
+
+## 6.6.9 - 2021-03-30
+
+- fix for issue #331 (#344)
+
 ## 6.6.8 - 2020-01-25
 
 - use package service provider
